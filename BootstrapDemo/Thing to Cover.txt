@@ -13,3 +13,27 @@ Code Snippet 1
 
 Page 2 - Build full page here
 
+typograhpry
+-	H1 -H2
+-	strong
+-	em
+-	.lead
+-	.text-muted .text-primary .text-success .text-warning
+-	.btn .btn-primary ..... btn-lg
+-	icons (show how size is based on container size)
+-	.badge
+-	navbar navbar-header nav active
+
+Page 3 
+Tables 
+-	.table table-striped .table-bordered .table-hover .table-condensed 
+-	.table-responsive (in parent to add scroll bar) 
+
+Page 4 
+Forms
+	-.form-group
+-	.form-control goes on the input
+-	.form-inline
+
+Optional
+-	button-group
