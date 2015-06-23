@@ -1,0 +1,15 @@
+﻿Page 1 
+-    add 2 images pix-200x200*2 
+-  explain col sizes
+Code Snippet 1
+<div class="col-md-3 lead">Extra small devices Phones (<768px)</div><div class="col-md-3 lead">small devices tablets (≥768px)</div><div class="col-md-3 lead">medium devices desktops (≥992px)</div><div class="col-md-3 lead">large devices desktops (≥1200px)</div>
+
+-   rows
+-   Code Snippet 2 - and show how smaller sizes effect larger.
+-   Containers
+-   Show how col sizes effect immage size
+-   align images with col-md-offset-1
+-   Spippet 3 
+
+Page 2 - Build full page here
+
